@@ -2,7 +2,7 @@ import styles from './About.module.scss'
 
 const About = () => {
     return(
-        <div className={styles.About}>About</div>
+        <div className={styles.about}>About</div>
     )
 }
 
